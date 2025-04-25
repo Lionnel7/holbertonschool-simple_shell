@@ -1,5 +1,5 @@
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTob-PjCKECdAeaKJ2385YR9AKZhyGR30ngAw&s)
-![Header](https://raw.githubusercontent.com/Lionnel7/holbertonschool-simple_shell/refs/heads/Lionnel7/readme_header.jpg)
+
 
 # Holberton School - Simple Shell Project
 
@@ -155,10 +155,10 @@ This simple shell has the following limitations:
 Command for execute the Man Page: 
 
 ```man ./man_1_simple_shell```
-![man _printf](https://ibb.co/M57tsLhv/man_1_simple_shell.png)
-https://github.com/Lionnel7/holbertonschool-simple_shell/blob/Dan/man_1_simple_shell
+![man _printf](https://ibb.co/M57tsLhv/)
+
 ## 🔁 Flowchart
-![Flowchart](https://ibb.co/jvgYRJzQ/simple_shell-flowchart.jpeg)
+![Flowchart](https://ibb.co/jvgYRJzQ/)
 
 ## 👥 Authors
 
