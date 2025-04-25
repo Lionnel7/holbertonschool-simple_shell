@@ -158,9 +158,9 @@ Command for execute the Man Page:
 
 https://github.com/Lionnel7/holbertonschool-simple_shell/blob/Dan/man_1_simple_shell
 ## 🔁 Flowchart
-https://ibb.co/qMV3zDLy
+![Flowchart](https://i.ibb.co/Hh9jGR3/Flowchart-Printf-1.png)
 
 ## 👥 Authors
 
-Pierre Lionnel Obiang  
+Pierre Lionnel Obiang  [Github](https://github.com/Lionnel7)
 Dan Florentin Ishimwe | [Github](https://github.com/danish872)
