@@ -155,10 +155,10 @@ This simple shell has the following limitations:
 Command for execute the Man Page: 
 
 ```man ./man_1_simple_shell```
-
+![man _printf](https://ibb.co/M57tsLhv/man_1_simple_shell.png)
 https://github.com/Lionnel7/holbertonschool-simple_shell/blob/Dan/man_1_simple_shell
 ## 🔁 Flowchart
-![Flowchart](https://i.ibb.co/Hh9jGR3/Flowchart-Printf-1.png)
+![Flowchart](https://ibb.co/jvgYRJzQ/simple_shell-flowchart.jpeg)
 
 ## 👥 Authors
 
